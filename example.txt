@@ -3,3 +3,6 @@ I am using this as a way to learn Git
 This is the change I am going to stage for a commit
 
 This is now going to end up on a new branch
+
+Finally, this change I've made on this branch will end up on the master branch
+

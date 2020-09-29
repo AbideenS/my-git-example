@@ -1,1 +1,3 @@
 I am using this as a way to learn Git
+
+This is the change I am going to stage for a commit
